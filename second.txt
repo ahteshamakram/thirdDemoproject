@@ -1,1 +1,7 @@
+hello developers ....
+
+
+
+
+
 this is second.txt file in smartgit
