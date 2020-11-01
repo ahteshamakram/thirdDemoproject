@@ -2,6 +2,9 @@ hello developers ....
 
 
 
+i am also changing this file 
+
+
 
 
 this is second.txt file in smartgit
